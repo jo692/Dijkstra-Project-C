@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1518715019 source:m:\algorithms and numerical\dijkstra project x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1518714293 m:\algorithms and numerical\dijkstra project x\functions.h
+	"functions.c"
+
+1518724463 m:\algorithms and numerical\dijkstra project x\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1518730384 source:d:\algorithms project\dijkstra project x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1518730384 d:\algorithms project\dijkstra project x\functions.h
+	"functions.c"
+
+1518733885 d:\algorithms project\dijkstra project x\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1518802868 source:m:\algorithms and numerical\dijkstra project xx\dijkstra project x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1518808612 m:\algorithms and numerical\dijkstra project xx\dijkstra project x\functions.h
+	"functions.c"
+
+1518807954 m:\algorithms and numerical\dijkstra project xx\dijkstra project x\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1518981408 source:m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1518783158 m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\functions.h
+	"functions.c"
+
+1518982330 m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1518990634 source:m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\src\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1518991448 m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\src\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1518990750 source:m:\algorithms and numerical\dijkstra project xxx\dijkstra project x\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1519030980 source:d:\algorithms project\y3850004 algorithms project\y3850004 algorithms project\src\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1519030022 d:\algorithms project\y3850004 algorithms project\y3850004 algorithms project\src\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1519030990 source:d:\algorithms project\y3850004 algorithms project\y3850004 algorithms project\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1519034590 source:d:\algorithms and numerical methods\y3850004 algorithms project\y3850004 algorithms project\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1519033622 d:\algorithms and numerical methods\y3850004 algorithms project\y3850004 algorithms project\src\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1519036241 source:d:\algorithms and numerical methods\y3850004 algorithms project\y3850004 algorithms project\src\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

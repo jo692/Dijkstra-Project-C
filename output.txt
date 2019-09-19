@@ -1,0 +1,16 @@
+The route from Carlisle to Birmingham: 
+Carlisle     Blackpool     Liverpool     Manchester     Birmingham     
+Distance travelled = 404
+
+The route from Reading to Edinburgh: 
+Reading     Oxford     Birmingham     Sheffield     Doncaster     York     Newcastle     Edinburgh     
+Distance travelled = 664
+
+The route from Lincoln to Bristol: 
+Lincoln     Leicester     Birmingham     Bristol     
+Distance travelled = 284
+
+The route from Leeds to Moffat: 
+Leeds     Blackpool     Carlisle     Moffat     
+Distance travelled = 321
+
