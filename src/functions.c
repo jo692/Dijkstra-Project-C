@@ -324,7 +324,7 @@ struct Heap
     struct heapElements** elements;
 };
 
-//Constructor for the individual elements of the heap, which have a distance from start and a node structure
+//Structure for the individual elements of the heap, which have a distance from start and a node structure
 struct heapElements
 {
     //Distance from start node to said node
